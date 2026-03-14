@@ -1,0 +1,46 @@
+body, h1,h2,h3 {
+    padding: 0;
+    margin: 0;
+}
+
+
+html {
+    background-color: rgb(255, 255, 255);
+}
+
+.wrapper {
+   margin: 0 auto;
+   max-width: 600;
+}
+
+.site-header {
+    background-color: rgb(255, 229, 115);
+    padding: 15;
+
+}
+
+.site-main {
+    background-color: rgb(197, 245, 182);
+    padding: 15;
+    margin-top: 10;
+    margin-bottom: 10;
+}
+
+.site-sections {
+    background-color: rgb(53, 117, 87);
+    padding: 15;
+    margin: 10;
+}
+
+.uwm-aside {
+    background-color: pink;
+    padding: 15;
+    color: rgb(168, 5, 95);
+}
+
+.site-footer {
+    background-color: rgb(185, 126, 149);
+    padding: 15;
+    margin-top: 10;
+    color: rgb(104, 0, 104);
+}

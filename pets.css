@@ -1,0 +1,22 @@
+html{
+    background-color: lemonchiffon;
+}
+
+.site-nav{
+    background-color: rgb(173, 230, 176);
+    padding: 10;
+}
+
+.site-main{
+    background-color: rgb(245, 167, 167);
+    padding: 10;
+}
+
+
+ul{
+    margin: 20;
+}
+
+h1,h2 {
+    font-family:"Henny Penny", system-ui ;
+}
